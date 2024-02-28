@@ -1,0 +1,51 @@
+.box1{
+    box-shadow: 0 5px 20px #2fc63c;
+}
+
+.box2{
+    box-shadow: 0 0 20px #64646f;
+}
+
+.box3{
+    box-shadow: 3px 3px 5px rgb(133,132,132);
+}
+
+.box4{
+    box-shadow: 0 5px 20px #c1bebe;
+}
+
+.box5{
+    box-shadow: 0 2px 5px #000000;
+}
+.box6{
+    box-shadow: 0 3px 20px #FF0000;
+}
+
+.box7{
+    box-shadow: 0 5px 20px #007FFD;
+}
+
+.box8{
+    box-shadow: 0 2px 20px#64646F;
+}
+.box9{
+    box-shadow: 2px 2px 5px;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.raw{
+    display: flex;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
